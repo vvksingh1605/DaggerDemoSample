@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: paymentintegrationlibrary-debug::null">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/android-dagger2-example/paymentintegrationlibrary-debug/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/android-dagger2-example/paymentintegrationlibrary-debug/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
